@@ -3,4 +3,6 @@
         schema = 'Computer'
     )
 }}
-select 1 d 
+select 1 data
+union all 
+select 2 data
