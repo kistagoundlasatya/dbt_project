@@ -1,0 +1,11 @@
+sources:
+  - name: snowflake_data
+    database: satya1
+    schema: rani1
+    tables:
+      - name: orders_data
+  - name: rani2
+    database: satya1
+    schema: rani2
+    tables:
+      - name: orders

@@ -1,0 +1,5 @@
+seeds:
+  - name: seed_example
+    config:  
+      column_types: 
+        id: varchar(20)

@@ -1,0 +1,6 @@
+sources:
+  - name: src_data
+    database: satya
+    schema: shri_rani
+    tables:
+      - name: emp_table

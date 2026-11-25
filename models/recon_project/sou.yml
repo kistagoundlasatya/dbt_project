@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: bronze_data
+    database: raw
+    schema: bronze
+    tables:
+      - name: data1
+      - name: data2
