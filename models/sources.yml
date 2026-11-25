@@ -1,0 +1,11 @@
+sources:
+  - name: sources_file
+    database: satya1
+    schema: computer
+    tables:
+      - name: orders1
+      - name: customers_tab
+      - name: orders2
+      - name: sales_data
+      - name: emp_table_data
+      - name: orders_tab

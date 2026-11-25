@@ -1,0 +1,10 @@
+c_id,courses_name,platform
+11,adf,microsoft_azure
+12,snowflake,cloud
+13,dbt,dbt_cloud
+14,airflow,airflow_python
+15,yyy,data
+16,777,999
+17,linux,winscp
+18,data,dd
+19,uii,datafile

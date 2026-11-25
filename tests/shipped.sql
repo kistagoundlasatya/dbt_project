@@ -1,0 +1,1 @@
+select *from {{ ref('orders_tab') }} where shipped_date < order_date
