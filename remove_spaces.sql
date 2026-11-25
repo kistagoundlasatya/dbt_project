@@ -1,0 +1,1 @@
+select *, {{remove_space('name')}} as k, {{special_character('emp_id')}} as d from satya1.rani1.emp_t
